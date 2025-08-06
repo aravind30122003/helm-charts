@@ -3,7 +3,7 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-08-06T21:17:30.406209042+05:30"
+    created: "2025-08-06T21:23:15.053427688+05:30"
     description: A Helm chart for Kubernetes
     digest: 7144496aec8e93b393941d935a03a434a031b61780b840741a3dd82d340775bc
     name: nginx
@@ -14,7 +14,7 @@ entries:
   shopping:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-08-06T21:17:30.406766315+05:30"
+    created: "2025-08-06T21:23:15.05420628+05:30"
     description: A Helm chart for Kubernetes
     digest: 31012e0d0ce91c2cda233cf40dd58d1f9f7a7e73bc3b8a809e95866a7855fdf0
     name: shopping
@@ -25,7 +25,7 @@ entries:
   test-commerce:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-08-06T21:17:30.40709996+05:30"
+    created: "2025-08-06T21:23:15.054628729+05:30"
     description: A Helm chart for Kubernetes
     digest: d21ea7695fcf6780b831f9a1e723325a735db67a915d09875230c8d9b1040a1a
     icon: https://raw.githubusercontent.com/aravind30122003/assets/main/test-commerce-icon.png
@@ -34,4 +34,4 @@ entries:
     urls:
     - https://aravind30122003.github.io/helm-charts/test-commerce-0.1.0.tgz
     version: 0.1.0
-generated: "2025-08-06T21:17:30.405541153+05:30"
+generated: "2025-08-06T21:23:15.052325758+05:30"
