@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: aravind30122003/test-commerce
+  repository: hello-world
   tag: latest
   pullPolicy: IfNotPresent
 
