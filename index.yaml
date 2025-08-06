@@ -3,7 +3,7 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-08-06T18:21:34.141743793+05:30"
+    created: "2025-08-06T18:49:47.828181173+05:30"
     description: A Helm chart for Kubernetes
     digest: 7144496aec8e93b393941d935a03a434a031b61780b840741a3dd82d340775bc
     name: nginx
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://aravind30122003.github.io/helm-charts/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2025-08-06T18:21:34.139870257+05:30"
+  shopping:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-08-06T18:49:47.829640754+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 31012e0d0ce91c2cda233cf40dd58d1f9f7a7e73bc3b8a809e95866a7855fdf0
+    name: shopping
+    type: application
+    urls:
+    - https://aravind30122003.github.io/helm-charts/shopping-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-08-06T18:49:47.826631482+05:30"
